@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #EEEEEE;
+    /* background-color: rgba(228, 58, 58, 0.274); */
+}
+
+#ribbon {
+    /* background-color: red; */
+    height: 90vh;
+    background-image: linear-gradient(rgba(0.25, 0.25, 0.25, 0.25), rgba(0.65, 0.65, 0.65, 0.65)), url(../img/01.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-size: cover;
+}
+
+.hoja {
+    font-size: 4em;
+}
+
+.bgup {
+    margin: -65px;
+}
+.hr {
+    margin-top: 4rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+#fondo2{
+    background-image: linear-gradient(rgba(0.25, 0.25, 0.25, 0.25), rgba(0.65, 0.65, 0.65, 0.65)),
+    url(../img/02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#fondo3{
+    background-color: #EEEEEE;
+}
+
